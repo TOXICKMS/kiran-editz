@@ -106,7 +106,7 @@ apt apt install libwebp
 apt apt install imagemagick
 apt install bash
 git clone https://github.com/DGXeon/CheemsBot-MD
-cd CheemsBot-MD
+cd KIRAN EDITZ BOT
 npm start
 ```
 ## `For 24/7 Activation`
