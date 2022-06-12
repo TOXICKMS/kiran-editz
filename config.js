@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
-global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
-global.packname = 'Cheems Bot' //sticker package name
-global.author = 'By Dream Guy Xeon' //sticker author name
+global.owner = ['919207125340','447451226592'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['919207125340'] //another owner number
+global.premium = ['919207125340'] //premium number
+global.pengguna = 'TOXICKMS-BOT' //username
+global.botnma = 'Kirans Bot-MD' //bot name
+global.ownernma = '🦄KIRAN EDITZ' //owner name
+global.packname = 'Kirans BOT' //sticker package name
+global.author = 'By KIRAN EDITZ' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
@@ -48,7 +48,7 @@ global.limitawal = {
     premium: "Infinity", //premium user limit
     free: 100 //free user limit
 }
-global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/9bd15ff35af7f72a7e425.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
