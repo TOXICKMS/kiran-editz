@@ -48,7 +48,7 @@ global.limitawal = {
     premium: "Infinity", //premium user limit
     free: 100 //free user limit
 }
-global.thumb = fs.readFileSync('https://telegra.ph/file/9bd15ff35af7f72a7e425.jpg')
+global.thumb = fs.readFileSync('cheemspic.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
