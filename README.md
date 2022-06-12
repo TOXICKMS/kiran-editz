@@ -105,7 +105,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD
+git clone https://github.com/TOXICKMS/kiran-editz.git
 cd KIRAN EDITZ BOT
 npm start
 ```
